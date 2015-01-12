@@ -23,7 +23,8 @@
   "dependencies": {
     "broccoli-filter": "~0.1.7",
     "ember-template-compiler": "~1.5.0",
-    "emblem": "~0.3.18"
+    "emblem": "patricklx/emblem.js#update-handlebars",
+    "htmlbars": "^0.7"
   },
   "devDependencies": {},
   "optionalDependencies": {}
